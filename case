@@ -9,6 +9,6 @@
 						            when Contest 
 							            puts "It's a Contest!"
 								        else 
-									        puts "It's a unknown model"
+									        puts "Hotel"
 										    end 
 										    end
